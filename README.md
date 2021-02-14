@@ -2,7 +2,7 @@
 
 ## Starting Instructions
 
-** 1. Using geth, initialize each node with larson_poa.json **
+**1. Using geth, initialize each node with larson_poa.json **
 
 * ./geth --datadir poa_1 init larson_poa.json
 * ./geth --datadir poa_2 init larson_poa.json
