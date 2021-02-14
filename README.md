@@ -1,4 +1,4 @@
-# Larson Proof of Authority (POA) Private Blockchain
+# Proof of Authority (POA) Private Blockchain
 
 ## Starting Instructions
 
